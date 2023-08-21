@@ -1,0 +1,285 @@
+#vesperr{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+#but{
+    margin-top: 30px;
+}
+#heroimg{
+    margin-left: 85px;
+    margin-top: -20px;
+}
+#imgs > img{
+    width: 120px;
+    filter: grayscale(100%);
+}
+#imgs > img:hover{
+    filter: grayscale(0%);
+}
+#about{  
+    margin-top: 40px;
+}
+#happyface{
+    margin-top: 30px;
+    color: blue;
+    font-size: 40px;
+}
+#table{
+    margin-top: 30px;
+    color: blue;
+    font-size: 40px;
+}
+#watch{
+    color: blue;
+    font-size: 40px;
+}
+#medal{
+    color: blue;
+    font-size: 40px;
+}
+#futbol{
+    border-radius: 10px;
+    width: 240px;
+    height: 200px;
+    background-color: aliceblue;
+    margin-left: 75px;
+}
+#solid{
+    font-size: 30px;
+    color: blue;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+#div1{
+    border-radius: 10px;
+    width: 240px;
+    height: 200px;
+    background-color: aliceblue;
+    margin-left: 350px;
+    margin-top: -200px;
+}
+#file{
+    font-size: 30px;
+    color: blue;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+#div2{
+    border-radius: 10px;
+    width: 240px;
+    height: 200px;
+    background-color: aliceblue;
+    margin-left: 630px;
+    margin-top: -200px;   
+}
+#speedometr{
+    font-size: 30px;
+    color: blue;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+#asia{
+    border-radius: 10px;
+    width: 240px;
+    height: 200px;
+    background-color: aliceblue;
+    margin-left: 920px;
+    margin-top: -200px;
+}
+#earth{
+    font-size: 30px;
+    color: blue;
+    margin-left: 10px;
+    margin-top: 15px;   
+}
+#services1{
+    margin-left: 70px;
+    margin-top: 30px;
+    width: 500px;
+    border-radius: 10px;
+}
+#services2{
+    width: 500px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+#services3{
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+#services4{
+    width: 500px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#div10{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-left: 70px;
+}
+#store{
+    color: yellow;
+}
+#div11{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-left: 300px;  
+    margin-top: -80px; 
+}
+#chart{
+    color:blue;
+}
+#div12{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-left: 530px;  
+    margin-top: -80px; 
+}
+#cells{
+    color: red;
+}
+#div13{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-left: 760px;  
+    margin-top: -80px;    
+}
+#pencil{
+    color: red;
+}
+#div14{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+#coloins{
+    color: cadetblue;
+}
+#div15{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-top: -80px;
+}
+#dot{
+    color: yellow;
+}
+#div16{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-top: 30px;
+    margin-left: 530px;
+    margin-top: -80px;
+}
+#calc{
+    color: aquamarine;
+}
+#div17{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-top: 30px;
+    margin-left: 760px;
+    margin-top: -80px;   
+}
+#pira{
+    color: blue;
+}
+#div18{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+#col{
+    color: green;
+}
+#div19{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-top: 30px;
+    margin-left: 290px;
+    margin-top: -80px;
+}
+#disk{
+    color: pink;
+}
+#nib{
+    color: yellow;
+}
+#hand{
+    color: green;
+}
+#div20{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-top: 30px;
+    margin-left: 530px;
+    margin-top: -80px;
+}
+#div21{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    margin-top: 30px;
+    margin-left: 760px;
+    margin-top: -80px;
+}
+#test1{
+    width: 100px;
+}
+#div30{
+    background-color: aliceblue;
+    width: 450px;
+    height: 250px;
+    margin-left: 75px;
+}
+#saul{
+    margin-left: 110px;
+    margin-top: -90px;
+}
+#ceo{
+    margin-left: 110px;
+}
+#loremipsum{
+    width: 310px;
+    margin-left: 110px;
+}
+#test2{
+    width: 100px;
+}
+#div31{
+    background-color: aliceblue;
+    width: 450px;
+    height: 250px;
+    margin-left: 615px;
+    margin-top: -250px;
+}
+#sara{
+    margin-left: 110px;
+    margin-top: -90px;
+}
+#lorem1{
+    width: 310px;
+    margin-left: 110px;
+    margin-top: -5px;
+}
+#designer{
+    margin-left: 110px;
+}
